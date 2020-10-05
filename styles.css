@@ -1,0 +1,19 @@
+body {
+    background-color: #e4f9f5;
+    color: #40514e;
+    font-family: 'Spartan', sans-serif;
+  }
+  
+  img {
+    border-radius: 100px;
+  }
+  
+  a {
+    color: #40514e;
+  }
+  a:visited {
+    color: #11999e;
+  }
+  a:hover, a:active, a:focus {
+    color: #30e3ca;
+  }
